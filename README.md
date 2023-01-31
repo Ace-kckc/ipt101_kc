@@ -5,3 +5,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ## Authors
 
 - [@ace-kckc](https://github.com/Ace-kckc)
+
+## Sample Code
+printf("Hello World");
