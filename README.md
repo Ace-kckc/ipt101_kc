@@ -11,3 +11,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## How to Install
 - Step 1: Download the zip file or use git clone
+- Step 2: Watch Anime
