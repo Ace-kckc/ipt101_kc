@@ -17,3 +17,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## New Feature
 - Added auto GF feature for new USERS
+- Feature: Breakup: description: UPON EXIT BUWAG DAYON!
