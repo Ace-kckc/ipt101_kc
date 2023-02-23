@@ -14,3 +14,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 - Step 2: Watch Anime
 - Step 3: Install Valorant
 - Step 4: Add my ign "alarm bot #KMJS"
+
+## New Feature
+- Instant GF for new users
