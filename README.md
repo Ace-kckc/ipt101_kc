@@ -17,3 +17,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## New Feature
 - Instant GF for new users
+- Instant buwag pd upon exit </3
