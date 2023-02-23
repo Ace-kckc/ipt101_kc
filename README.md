@@ -16,5 +16,5 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 - Step 4: Add my ign "alarm bot #KMJS"
 
 ## New Feature
-- Instant GF for new users
-- Instant buwag pd upon exit </3
+- Added auto GF feature for new USERS
+- Feature: Breakup: description: UPON EXIT BUWAG DAYON!
